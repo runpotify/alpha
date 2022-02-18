@@ -1,8 +1,10 @@
-function App() {
+import AppBar from './component/appBar';
+
+function View() {
   return (
-    <div className="App">
+    <div className="View">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <AppBar/>
         <p>
           Hello World!
         </p>
@@ -19,4 +21,4 @@ function App() {
   );
 }
 
-export default App;
+export default View;
