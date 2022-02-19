@@ -3,7 +3,6 @@ For directory name, use camelCase.
 For File name, use PascalCase.
 
 ## File Structure
-
 .
 ├── node_modules
 │   └── (생략됨)
@@ -22,3 +21,5 @@ For File name, use PascalCase.
     ├── dataExample
     └── pages
         └── View.js
+
+2022 (c) Runpotify Team
