@@ -1,6 +1,6 @@
 ## Naming Rules
-For directory name, use camelCase. < br/>
-For File name, use PascalCase. <br />
+For directory name, use camelCase. <br/>
+For File name, use PascalCase. <br/>
 
 ## File Structure
 ```
