@@ -3,7 +3,7 @@ For directory name, use camelCase. <br/>
 For File name, use PascalCase. <br/>
 
 ## File Structure
-.
+.<br/>
 ├── node_modules <br/>
 │   └── (생략됨) <br/>
 ├── README.md <br/>
